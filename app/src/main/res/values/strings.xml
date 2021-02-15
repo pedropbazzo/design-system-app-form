@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">KFormMaster</string>
+
+    <!-- Login -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember</string>
+
+    <string name="email_hint">Enter Email</string>
+    <string name="form">Form</string>
+    <string name="Phone">Phone</string>
+    <string name="Location">Location</string>
+    <string name="Address">Address</string>
+    <string name="ZipCode">Zip Code</string>
+    <string name="Date">Date</string>
+    <string name="Time">Time</string>
+    <string name="DateTime">Date Time</string>
+    <string name="SingleItem">Single Item</string>
+    <string name="MultiItems">Multi Items</string>
+    <string name="MultiItemsWithOverride">Multi Items With Override</string>
+    <string name="AutoComplete">Auto Complete</string>
+    <string name="AutoCompleteToken">Auto Complete Token</string>
+    <string name="Button">Button</string>
+    <string name="Switch">Switch</string>
+    <string name="Slider">Slider</string>
+    <string name="CheckBox">CheckBox</string>
+    <string name="Progress">Progress</string>
+    <string name="TextView">Text View</string>
+    <string name="Segmented">Segmented</string>
+    <string name="Label">This is a label. The title takes up the whole row.</string>
+    <string name="Custom_Element">Custom Element</string>
+    <string name="Custom_Layout">Custom Layout</string>
+    <string name="Places_AutoComplete">Places</string>
+    <string name="Confirm">Clear Date field?</string>
+    <string name="PersonalInfo">Personal Info</string>
+    <string name="InlineDatePicker">Inline Date Picker</string>
+    <string name="FamilyInfo">Family Info</string>
+    <string name="Schedule">Schedule</string>
+    <string name="PreferredItems">Preferred Items</string>
+    <string name="MarkComplete">Mark Complete</string>
+    <string name="FormValid">Form is Valid</string>
+    <string name="FormInvalid">Form is Invalid!</string>
+    <string name="InlineDateStart">Date Start</string>
+    <string name="InlineDateEnd">Date End</string>
+
+    <string name="this_is_a_big_pointless_place_holder">This is a big pointless place-holder</string>
+    <string name="another_pointless_place_holder">Another pointless place-holder</string>
+    <string name="full_screen_form">Full screen form</string>
+    <string name="partial_screen_form">Partial screen form</string>
+    <string name="form_with_listener">Form with listener</string>
+    <string name="form_with_listener_java">Form with listener (Java)</string>
+    <string name="sample_login_form">Sample login form</string>
+    <string name="login_to_our_portal">Login to our portal</string>
+    <string name="login">login</string>
+    <string name="custom_form">Custom form</string>
+    <string name="tabbed_form">Tabbed form</string>
+    <string name="custom_footer_1">This is a custom element in the app project</string>
+    <string name="custom_footer_2">This is a custom layout in the app project</string>
+    <string name="custom_footer_3">This is a custom Google Places Auto Complete element in the app project</string>
+    <string name="validate">Validate</string>
+    <string name="clear">Clear</string>
+    <string name="show_hide">Show/Hide</string>
+</resources>
