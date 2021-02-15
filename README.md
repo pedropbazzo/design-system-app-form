@@ -51,6 +51,3 @@ allprojects {
 The App Automate feature of BrowserStack is used for Espresso testing of this library. The App Automate REST API is used to upload the example app and test app to test multiple devices in parallel.
 
 
-License
------------------
-This library is available as open source under the terms of the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
